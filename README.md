@@ -1,3 +1,12 @@
+
+<head>
+  <style>
+    body {
+      background-color: #f2f2f2; /* Change the color code to the desired background color */
+    }
+  </style>
+</head>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bobfrwas.bobfrwas" />
 
 <h1 align="center">
