@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **detecting viruses**
  
- 🌱 I’m currently learning **Viruses, Trojans and Worms**
+ 🌱 I’m currently learning about **Viruses, Trojans and Worms**
 
 💬 Ask me about **Python, Malware, or ethical hacking [here](https://github.com/bobfrwas/bobfrwas/issues)**
 
