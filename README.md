@@ -37,7 +37,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
+    <a href="https://v2.tailwindcss.com/docs">
+    <img src = "https://skillicons.dev/icons?i=tailwind" />
+    </a>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql" /><br>
 </div>
 
