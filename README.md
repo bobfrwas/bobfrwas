@@ -56,7 +56,7 @@
     <a href="https://docs.github.com">
         <img src="https://skillicons.dev/icons?i=github" />
     </a>
-    <a href="https://www.figma.com/docs">
+    <a href="https://www.figma.com">
         <img src="https://skillicons.dev/icons?i=figma" />
     </a>
     <a href="https://git-scm.com/doc">
