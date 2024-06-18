@@ -1,3 +1,4 @@
+<div style="background-color: #f2f2f2; padding: 20px;">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bobfrwas.bobfrwas" />
 
 <h1 align="center">
@@ -114,3 +115,4 @@
 </div>
 
 <br/>
+</div>
