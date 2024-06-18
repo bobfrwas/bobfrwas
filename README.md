@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <div align="center">
-    <a href="https://reactjs.org/docs">
+    <a href="https://react.dev/docs">
         <img src="https://skillicons.dev/icons?i=react" />
     </a>
     <a href="https://getbootstrap.com/docs">
