@@ -38,26 +38,17 @@
 <br/>
 <div align="center">
     <div align="center">
-    <a href="https://react.dev">
-        <img src="https://skillicons.dev/icons?i=react" />
-    </a>
     <a href="https://getbootstrap.com/docs">
         <img src="https://skillicons.dev/icons?i=bootstrap" />
     </a>
     <a href="https://developer.mozilla.org/docs/Web/HTML">
         <img src="https://skillicons.dev/icons?i=html" />
     </a>
-    <a href="https://developer.mozilla.org/docs/Web/CSS">
-        <img src="https://skillicons.dev/icons?i=css" />
-    </a>
     <a href="https://code.visualstudio.com/docs">
         <img src="https://skillicons.dev/icons?i=vscode" />
     </a>
     <a href="https://docs.github.com">
         <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-    <a href="https://www.figma.com">
-        <img src="https://skillicons.dev/icons?i=figma" />
     </a>
     <a href="https://git-scm.com/doc">
         <img src="https://skillicons.dev/icons?i=git" />
@@ -70,9 +61,6 @@
     </a>
     <a href="https://developer.mozilla.org/docs/Web/JavaScript">
         <img src="https://skillicons.dev/icons?i=javascript" />
-    </a>
-    <a href="https://www.typescriptlang.org/docs">
-        <img src="https://skillicons.dev/icons?i=typescript" />
     </a>
     <a href="https://dev.mysql.com/doc">
         <img src="https://skillicons.dev/icons?i=mysql" />
