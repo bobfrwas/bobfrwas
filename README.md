@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ****
+ 🔭 I’m currently working on my htb certification
  
- 🌱 I’m currently learning about ****
+ 🌱 I’m currently learning about Networking
 
 💬 Ask me about ** [here](https://github.com/bobfrwas/bobfrwas/issues)**
 
