@@ -16,7 +16,7 @@
 
 💬 Ask me about ** [here](https://github.com/bobfrwas/bobfrwas/issues)**
 
-⚡ Fun fact **My favourite anime is INSERT ANIME HERE**
+⚡ Fun fact **My favourite card game is Uno**
 
  </div>
  
