@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on my htb certification
+ 🔭 I’m currently working on my HTB Certification
  
  🌱 I’m currently learning about Networking
 
