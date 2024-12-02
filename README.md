@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning about Networking
 
-💬 Ask me about ** [here](https://github.com/bobfrwas/bobfrwas/issues)**
+🌐 Ask me about my website ** [here](https://megumin.uk)**
 
 ⚡ Fun fact **My favourite card game is Uno**
 
